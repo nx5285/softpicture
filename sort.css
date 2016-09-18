@@ -1,0 +1,43 @@
+body,ul,li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+img{
+	border: none;
+	vertical-align: top;
+	width: 200px;
+	height:150px;
+}
+ul{
+	height: 400px;
+}
+li{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 0 5px;
+	text-align: center;
+}
+span{
+	width: 200px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 14px;
+}
+input{
+	width:100px;
+	height: 40px;
+}
+#box{
+	width: 840px;
+	height: 500px;
+	margin: 50px auto;
+	background-color: #CCCCCC;
+}
+#btn{
+	width: 840px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+}
